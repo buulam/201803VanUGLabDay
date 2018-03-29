@@ -6,3 +6,5 @@ Notes for the F5 Vancouver Users Lab Day
 * The lab guide can be found at https://www.dropbox.com/s/ps0vmjsy5w6g3tu/2018-03%20-%20Vancouver%20UG%20ASM%20Lab%20Day.docx?dl=0
 
 * As a security precaution, change the admin passwords
+
+* The Earls Loft Private Wifi key is "loftatearls"
